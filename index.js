@@ -24,3 +24,6 @@ fs.createReadStream(inputFilePath)
 
     console.log("wenas!");
   });
+
+
+  

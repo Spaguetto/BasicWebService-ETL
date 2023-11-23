@@ -106,11 +106,6 @@ fill-range@^7.0.1:
   dependencies:
     to-regex-range "^5.0.1"
 
-fsevents@~2.3.2:
-  version "2.3.3"
-  resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.3.3.tgz#cac6407785d03675a2a5e1a5305c697b347d90d6"
-  integrity sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw==
-
 glob-parent@~5.1.2:
   version "5.1.2"
   resolved "https://registry.npmjs.org/glob-parent/-/glob-parent-5.1.2.tgz"
@@ -168,6 +163,11 @@ json2csv@^6.0.0-alpha.2:
     "@streamparser/json" "^0.0.6"
     commander "^6.2.0"
     lodash.get "^4.4.2"
+
+jsontoxml@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/jsontoxml/-/jsontoxml-1.0.1.tgz"
+  integrity sha512-dtKGq0K8EWQBRqcAaePSgKR4Hyjfsz/LkurHSV3Cxk4H+h2fWDeaN2jzABz+ZmOJylgXS7FGeWmbZ6jgYUMdJQ==
 
 lodash.get@^4.4.2:
   version "4.4.2"
